@@ -38,7 +38,17 @@
 }
 .footer-text-2 {
     margin-top: 18px;
+    text-decoration: none;
+    color: black;
 }
 li {
     list-style-type: none;
+}
+foto {
+    width: 145px;
+    height: 200px;
+}
+logo {
+    text-decoration: none;
+    color: black;
 }
