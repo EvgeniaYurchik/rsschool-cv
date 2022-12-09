@@ -1,13 +1,14 @@
 # **Yurchik Evgenia**
+====================================
 
 _Phone: @ev_user (Telegram), +48696109126_
 
 ## _Email: yurchik.evgenia@gmail.com_
-
+====================================
 ## _Target position_
 
 Front-end Developer
-
+===================================
 ## _Summary_
 
 My previous work was connected with constant communication with customers, resolving conflict situations. So, I have good social and business communication skills. In addition, I am multitasking, responsible, I can work effectively even in the stressful atmosphere.
@@ -17,7 +18,7 @@ I have a good sense of humor, creative thinking skills and ability to work effic
 
 Now I am studying in the RS School.
 Also organize pub quizzes. And I teach mathematics to students.
-
+===================================
 ## _Skills_
 
 - JavaScript
@@ -27,7 +28,7 @@ Also organize pub quizzes. And I teach mathematics to students.
 - GIT
 - English skills (Pre-intermediate, A-2)
 - Polish skills (Elementary)
-
+=================================
 ## _Education_
 
 - 05.2020 - 07.2020 – Polish language courses
@@ -41,7 +42,7 @@ Also organize pub quizzes. And I teach mathematics to students.
 - 2007-2012 – Academy of Public Administration under the President of the Republic of Belarus
   Department of Public Administration and Law
   Specialization: lawyer
-
+====================================
 ## _Work experience_
 
 - 01.09.2022 – until now – organization of Mozgoquiz, teach mathematics to students.
@@ -53,7 +54,7 @@ Also organize pub quizzes. And I teach mathematics to students.
 - 01.08.2011 – 30.09.2014 – Apostil Ltd., lawyer
   Main responsibilities: corporate law; representation of clients' interests in courts; preparation of legal opinions; negotiating.
   During my work here I was responsible, fast and became a good specialist in the sphere.
-
+====================================
 ## _References_
 
 - My trainer (Aleksandr, telegram: @drop_user, https://www.linkedin.com/m/in/aliaksandr-maksiuta-57842695)
