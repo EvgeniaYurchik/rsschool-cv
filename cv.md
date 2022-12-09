@@ -8,7 +8,8 @@ _Phone: @ev_user (Telegram), +48696109126_
 ## _Target position_
 
 Front-end Developer
-===================================
+
+====================================
 ## _Summary_
 
 My previous work was connected with constant communication with customers, resolving conflict situations. So, I have good social and business communication skills. In addition, I am multitasking, responsible, I can work effectively even in the stressful atmosphere.
@@ -19,7 +20,7 @@ I have a good sense of humor, creative thinking skills and ability to work effic
 Now I am studying in the RS School.
 Also organize pub quizzes. And I teach mathematics to students.
 
-===================================
+====================================
 ## _Skills_
 
 - JavaScript
@@ -30,7 +31,7 @@ Also organize pub quizzes. And I teach mathematics to students.
 - English skills (Pre-intermediate, A-2)
 - Polish skills (Elementary)
 
-=================================
+====================================
 ## _Education_
 
 - 05.2020 - 07.2020 – Polish language courses
