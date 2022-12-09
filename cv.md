@@ -29,6 +29,7 @@ Also organize pub quizzes. And I teach mathematics to students.
 - GIT
 - English skills (Pre-intermediate, A-2)
 - Polish skills (Elementary)
+
 =================================
 ## _Education_
 
