@@ -18,6 +18,7 @@ I have a good sense of humor, creative thinking skills and ability to work effic
 
 Now I am studying in the RS School.
 Also organize pub quizzes. And I teach mathematics to students.
+
 ===================================
 ## _Skills_
 
@@ -42,6 +43,7 @@ Also organize pub quizzes. And I teach mathematics to students.
 - 2007-2012 – Academy of Public Administration under the President of the Republic of Belarus
   Department of Public Administration and Law
   Specialization: lawyer
+
 ====================================
 ## _Work experience_
 
@@ -54,6 +56,7 @@ Also organize pub quizzes. And I teach mathematics to students.
 - 01.08.2011 – 30.09.2014 – Apostil Ltd., lawyer
   Main responsibilities: corporate law; representation of clients' interests in courts; preparation of legal opinions; negotiating.
   During my work here I was responsible, fast and became a good specialist in the sphere.
+
 ====================================
 ## _References_
 
