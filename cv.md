@@ -1,10 +1,8 @@
 # **Yurchik Evgenia**
-====================================
 
 _Phone: @ev_user (Telegram), +48696109126_
- _Email: yurchik.evgenia@gmail.com_
+_Email: yurchik.evgenia@gmail.com_
 
-====================================
 ## _Target position_
 
 Front-end Developer
